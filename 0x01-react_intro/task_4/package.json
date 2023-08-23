@@ -1,0 +1,21 @@
+{
+  "name": "task_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://Elvis-rozy.github.io/alx-react",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "alx-react"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
